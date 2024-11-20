@@ -1,0 +1,189 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #1e90ff;
+}
+
+header p {
+    font-size: 1.1rem;
+    color: #666;
+}
+
+.contact-info, .contact-form, .social-media {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: #1e90ff;
+    margin-bottom: 10px;
+}
+
+.contact-info ul, .social-media ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.contact-info li, .social-media li {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #1e90ff;
+}
+
+.contact-form input, .contact-form select, .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    font-size: 1rem;
+}
+
+.contact-form button {
+    background-color: #1e90ff;
+    color: white;
+    padding: 12px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.contact-form button:hover {
+    background-color: #007acc;
+}
+
+footer {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 30px;
+    color: #888;
+}
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #1e90ff;
+}
+
+header p {
+    font-size: 1.1rem;
+    color: #666;
+}
+
+.about-content, .our-mission, .our-team, .why-choose-us {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 2rem;
+    color: #1e90ff;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.team-members {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.team-member {
+    text-align: center;
+    width: 30%;
+}
+
+.team-member img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.team-member h3 {
+    font-size: 1.3rem;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.team-member p {
+    font-size: 1rem;
+    color: #666;
+}
+
+.why-choose-us ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.why-choose-us li {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: 1.1rem;
+    margin-top: 30px;
+    color: #888;
+}
+
+footer a {
+    text-decoration: none;
+    color: #1e90ff;
+}
